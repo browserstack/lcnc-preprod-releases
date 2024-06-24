@@ -2,11 +2,11 @@
   "message": {
     "data": {
       "darwin": {
-        "x64": "https://github.com/browserstack/lcnc-preprod-releases/releases/download/5.0.3/Low-Code-Automation-Preprod-darwin-x64-5.0.3.dmg",
-        "arm64": "https://github.com/browserstack/lcnc-preprod-releases/releases/download/5.0.3/Low-Code-Automation-Preprod-darwin-arm64-5.0.3.dmg"
+        "x64": "https://github.com/browserstack/lcnc-preprod-releases/releases/download/5.0.4/Low-Code-Automation-Preprod-darwin-x64-5.0.4.dmg",
+        "arm64": "https://github.com/browserstack/lcnc-preprod-releases/releases/download/5.0.4/Low-Code-Automation-Preprod-darwin-arm64-5.0.4.dmg"
       },
       "windows": {
-        "x64": "https://github.com/browserstack/lcnc-preprod-releases/releases/download/5.0.3/BrowserStack.Low.Code.Automation-5.0.3.Setup.exe"
+        "x64": "https://github.com/browserstack/lcnc-preprod-releases/releases/download/5.0.4/BrowserStack.Low.Code.Automation-5.0.4.Setup.exe"
       }
     }
   }
